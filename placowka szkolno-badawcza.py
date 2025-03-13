@@ -1,4 +1,3 @@
-
 print("bezpiecznie\n"
       "niebezpiecznie\n"
       "ok\n"
