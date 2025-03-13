@@ -1,8 +1,8 @@
 print("bezpiecznie\n"
-      "niebezpiecznie\n"
-      "ok\n"
-      "o nie\n"
-      "jest źle")
+    "niebezpiecznie\n"
+    "ok\n"
+    "o nie\n"
+    "jest źle")
 while True:
     co_chcesz = input("co chcesz zrobić? (opowieść, obiekty) ")
     if co_chcesz == "opowieść":
