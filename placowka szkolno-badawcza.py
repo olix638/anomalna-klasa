@@ -57,7 +57,7 @@ while True:
                     "dziękuję za przeczytanie\n"
                     "opowieści o obiekcie 1:śmierć\n")
         elif obiekt == 2:
-            print("nazwa obiektu: duolingo\n"
+            print("\nnazwa obiektu: duolingo\n"
                 "klasa obiektu: bezpicznie/zabawny\n"
                 "opis obiektu:\n"
                 "jest Sową\n"
@@ -66,7 +66,7 @@ while True:
                 "umiejętności obiektu:\n"
                 "umie gadać w każdym języku świata\n"
                 "może przejść do prawdziwego świata jak za długo grasz\n"
-                "")
+                "spierdalaj")
         else:
             print("nie ma takiego obiektu")
     else:
